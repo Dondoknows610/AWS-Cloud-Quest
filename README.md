@@ -1,15 +1,15 @@
-<h1>AWS Cloud Quest</h1>
+<h1> ☁️ AWS Cloud Quest</h1>
 
 
-<h2>Description</h2>
-<b></b>
+<h2> Description</h2>
+<b>Most recently I found that Amazon Cloudquest is a great way to test my knowledge while continuing to learn. Below are some of the labs I have been able to work on along with a follow along and my personal thoughts</b>
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>🏙️  Roles</h2>
 
-- <b>AWS Cloud Security Services</b> 
-- <b>AWS Cloud Quest</b>
+- <b>[AWS CloudQuest: Cloud Practioner](URL)</b> 
+- <b>[AWS CloudQuest: Security](URL)</b>
 
 <h2>Environments Used </h2>
 
