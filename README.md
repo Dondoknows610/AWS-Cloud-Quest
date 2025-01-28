@@ -9,7 +9,7 @@
 <h2>🏙️  Roles</h2>
 
 - <b>[AWS CloudQuest: Cloud Practioner](URL)</b> 
-- <b>[AWS CloudQuest: Security](URL)</b>
+- <b>[AWS CloudQuest: Security](https://github.com/Dondoknows610/CloudQuest-Security)</b>
 
 <h2>Environments Used </h2>
 
